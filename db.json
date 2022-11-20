@@ -1,5 +1,5 @@
-{"ramo_id": "001", "ramo_nombre": 'Nivelacion matematica', "ramo_seccion": '001-V', "horario": '19:01'}
-{"ramo_id": "002", "ramo_nombre": 'Programacion de algoritmos', "ramo_seccion": '002-V', "horario": '19:01'}
-{"ramo_id": "003", "ramo_nombre": 'Fundamentos de base de datos', "ramo_seccion": '003-V', "horario": '19:01'}
-{"ramo_id": "004", "ramo_nombre": 'Ingles basico', "ramo_seccion": 'INI04-V', "horario": '21:10'}
-{"ramo_id": "005", "ramo_nombre": 'Gestion de proyectos', "ramo_seccion": '005-V', "horario": '19:01'}
+{"ramo_id": "001", "ramo_nombre": "Nivelacion matematica", "ramo_seccion": "001-V", "horario": "19:01"}
+{"ramo_id": "002", "ramo_nombre": "Programacion de algoritmos", "ramo_seccion": "002-V", "horario": "19:01"}
+{"ramo_id": "003", "ramo_nombre": "Fundamentos de base de datos", "ramo_seccion": "003-V", "horario": "19:01"}
+{"ramo_id": "004", "ramo_nombre": "Ingles basico", "ramo_seccion": "INI04-V", "horario": "21:10"}
+{"ramo_id": "005", "ramo_nombre": "Gestion de proyectos", "ramo_seccion": "005-V", "horario": "19:01"}
