@@ -1,0 +1,14 @@
+{
+    "name": "animals",
+    "animals": [
+        "Dog",
+        "Cat",
+        "Mouse",
+        "Pig",
+        "Bear"
+  ],
+  "hobbies": {
+        "football": false,
+        "reading": true
+  }
+}
